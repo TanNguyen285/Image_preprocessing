@@ -10,7 +10,7 @@ from model_sci import Finetunemodel
 
 # ================= CONFIG =================
 
-INPUT_PATH = r"C:\Users\LagCT\Desktop\Image Pre-processing\test_1"
+INPUT_PATH = r"C:\Users\LagCT\Desktop\Image Pre-processing\test_0"
 OUTPUT_PATH = r"C:\Users\LagCT\Desktop\Image Pre-processing\SCI_YOLO_Results"
 SCI_WEIGHT = r"C:\Users\LagCT\Desktop\Image Pre-processing\SCI-2022+2025\CVPR\weights\medium.pt"
 YOLO_WEIGHT = r"C:\Users\LagCT\Desktop\Image Pre-processing\runs\detect\yolov26_trained\weights\best.pt"
